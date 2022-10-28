@@ -1,1 +1,2 @@
 print('alpha')
+print('beta')
